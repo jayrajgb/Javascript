@@ -1,0 +1,10 @@
+body{
+    padding: 1rem;
+    background-color: black;
+    color: #0f0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div{
+    margin: 1rem;
+}
